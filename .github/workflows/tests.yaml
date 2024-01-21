@@ -27,11 +27,3 @@ jobs:
             --cov=src \
             --cov-report=xml \
             tests
-
-      - id: coveralls
-        name: Upload coverage to coveralls
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          pip install --upgrade coveralls
-          coveralls --service=github
