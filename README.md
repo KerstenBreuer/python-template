@@ -17,7 +17,6 @@ Here the intro to the template stops and the actual template for the readme of t
 
 ---
 [![tests](https://github.com/kerstenbreuer/python-template/actions/workflows/tests.yaml/badge.svg)](https://github.com/kerstenbreuer/python-template/actions/workflows/tests.yaml)
-[![Coverage Status](https://coveralls.io/repos/github/KerstenBreuer/python-template/badge.svg?branch=main)](https://coveralls.io/github/KerstenBreuer/python-template?branch=main)
 
 # My Custom App
 
